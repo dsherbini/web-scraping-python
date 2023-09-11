@@ -1,2 +1,2 @@
 # web-scraping-python
-Web scraping using Python package beautifulsoup.
+Web scraping academic data from University of Chicago website using Python package beautifulsoup.
